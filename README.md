@@ -31,7 +31,7 @@ machine-predictive-maintenance/
 
 ---
 
-## 📖 Overview
+## Overview
 
 Industrial downtime is costly. By analyzing sensor readings—air and process temperature, rotational speed, torque, and tool wear—this project trains a Random Forest model to:
 
@@ -74,7 +74,7 @@ Key steps include data cleaning, visualization (histograms, heatmaps, boxplots, 
 
 ---
 
-## 🛠 Usage
+## Usage
 
 1. **Prepare the data**
 
